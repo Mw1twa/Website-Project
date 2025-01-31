@@ -1,1 +1,1 @@
-Website design using Html and Css.
+Website design using HTML and CSS.
